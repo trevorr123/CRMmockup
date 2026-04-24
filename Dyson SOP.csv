@@ -1,0 +1,869 @@
+File Name,Step #,Person-in-charge,Step,Next Step / Reference
+1.1 Business Development - Understanding Referral Needs,1.1.1,[N/A],STAGE 1.1.1: ASSESSING APPLICABLE AGENC(IES) FOR PROSPECTIVE CASE,1.1.1.1
+,1.1.1.1,Client / Contractors,Contact Dyson with a business enquiry.,1.1.1.2
+,1.1.1.2,Sales Executive,"Request information (Type of intended business, Address, Proposed floorplan, Copies of any approval of use).",1.1.1.3
+,1.1.1.3,Client / Contractors,Gives information on Proposed Business.,1.1.1.4
+,1.1.1.4,Sales Executive,Is there a desired location in mind?,"1.1.1.5, 1.1.1.6"
+,1.1.1.5,Sales Executive,"If no location, refer client to RE Agent.",
+,1.1.1.6,Sales Executive,"If yes location, Does Proposed Business involve NEA's approval?","1.1.1.7, 1.1.1.8"
+,1.1.1.7,Sales Executive,"If no NEA approval needed, refer client to RE Agent.",
+,1.1.1.8,Sales Executive,"If yes NEA approval needed, Will NEA approval be easily obtained?","1.1.1.9, 1.1.1.10"
+,1.1.1.9,Sales Executive,"If NEA approval not easily obtained, refer client to RE Agent.",
+,1.1.1.10,Sales Executive,"If NEA approval easily obtained, Did client send AoU?","1.1.1.11, 1.1.2"
+,1.1.1.11,Sales Executive,"If yes client sent AoU, proceed to Assess if Quotation is Needed.",1.1.3
+,1.1.2,[N/A],STAGE 1.1.2: ASSESS IF CHANGE IN APPROVAL OF USE WITH HDB/URA/JTC IS REQUIRED,1.1.2.1
+,1.1.2.1,Sales Executive,Check address to determine relevant agenc(ies).,1.1.2.2
+,1.1.2.2,Sales Executive,Is the unit under the purview of HDB/URA/JTC?,"1.1.2.3, 1.1.2.7"
+,1.1.2.3,Sales Executive,"If HDB / JTC, Check with client if an enquiry has been made with HDB / JTC.","1.1.2.4, 1.1.2.6"
+,1.1.2.4,Sales Executive,"If yes enquiry made, Request client to send over HDB/JTC's list of requirements for use of premises.",1.1.2.5
+,1.1.2.5,Client,Sends over HDB/JTC's list of requirements for use of premises.,1.1.2.8
+,1.1.2.6,Sales Executive,"If no enquiry made, Inform client to email HDB/JTC and send over list of requirements for use.",1.1.2.5
+,1.1.2.7,Sales Executive,"If URA, Search URA Portal to determine existing Approval of Use.",1.1.2.8
+,1.1.2.8,Sales Executive,Does the intended business fall under the existing Approval of Use?,"1.1.2.9, 1.1.2.10"
+,1.1.2.9,Sales Executive,"If yes it falls under existing Approval of Use, proceed to Assess if Quotation is Needed.",1.1.3
+,1.1.2.10,Sales Executive,"If no it does not fall under existing Approval of Use, Conduct checks on URA Portal / Email officer handling specific area of unit to verify if Change of Use to client's desired use is allowed.",1.1.2.11
+,1.1.2.11,Sales Executive,Is Change of Use to desired use allowed?,"1.1.2.12, 1.1.2.13"
+,1.1.2.12,Sales Executive,"If no Change of Use is not allowed, Inform client of potential issues regarding Approval of Use for desired business (DO NOT TAKE ON THE CASE).",
+,1.1.2.13,Sales Executive,"If yes Change of Use is allowed, proceed to Assess if Quotation is Needed.",1.1.3
+,1.1.3,[N/A],STAGE 1.1.3: ASSESS IF QUOTATION IS NEEDED,1.1.3.1
+,1.1.3.1,Sales Executive,Check if client requires Dyson to quote for filing Change of Use application.,1.2
+1.2 Business Development - Quotation,1.2.1,[N/A],STAGE 1.2.1: PREPARE DRAFT QUOTATION,1.2.1.1
+,1.2.1.1,Client / Contractors,Informs Dyson on Proposal Needs.,1.2.1.2
+,1.2.1.2,Sales Executive,Sends Admin instructions on quotation T&Cs.,1.2.1.3
+,1.2.1.3,Admin,Prepare draft Quotation according to templates in Xero.,1.2.2
+,1.2.2,[N/A],STAGE 1.2.2: ENGROSS QUOTATION,1.2.2.1
+,1.2.2.1,Admin,Engross Quotation.,1.2.2.2
+,1.2.2.2,Admin,Send to SE for Review.,1.2.2.3
+,1.2.2.3,Sales Executive,Review Engrossed Quotation.,1.2.2.4
+,1.2.2.4,Sales Executive,Is Engrossed Quotation complete?,"1.2.2.5, 1.2.2.6"
+,1.2.2.5,Sales Executive,"If no, Inform Admin of amendments to engrossed quotation.",1.2.2.10
+,1.2.2.6,Sales Executive,"If yes, Send Engrossed Quotation to MD for Approval and/or Signing.",1.2.2.7
+,1.2.2.7,Managing Director,Is Engrossed Quotation complete?,"1.2.2.8, 1.2.2.9"
+,1.2.2.8,Managing Director,"If no, MD gives comments to SE.",1.2.2.10
+,1.2.2.9,Managing Director,"If yes, Sign Engrossed Quotation.",1.2.3
+,1.2.2.10,Admin,Revise Quotation.,1.2.2.11
+,1.2.2.11,Admin,Send to SE for Review.,1.2.2.3
+,1.2.3,[N/A],STAGE 1.2.3: SEND QUOTATION FOR ACCEPTANCE,1.2.3.1
+,1.2.3.1,Admin,WhatsApp Client's Finance Personnel only the Signed Quotation for acknowledgement.,1.2.3.2
+,1.2.3.2,Client,Did Client acknowledge receipt?,"1.2.3.3, 1.2.3.4"
+,1.2.3.3,Admin,"If no, Follow up once with client (on Same Day).",1.2.3.5
+,1.2.3.4,Client,"If yes, Accept Quotation.",1.2.4
+,1.2.3.5,Admin,Did Client acknowledge receipt?,"1.2.3.6, 1.2.3.4"
+,1.2.3.6,Admin,"If no, END.",
+,1.2.4,[N/A],STAGE 1.2.4: GENERATE INVOICE (FOR DEPOSIT),1.2.4.1
+,1.2.4.1,Admin,Create invoice #1 (50%) for deposit.,1.2.4.2
+,1.2.4.2,Admin,Send Invoice to client.,1.2.4.3
+,1.2.4.3,Client,Receive Invoice #1.,1.2.4.4
+,1.2.4.4,Client,Did Client pay?,"1.2.4.5, 1.2.4.6"
+,1.2.4.5,Admin,"If no, Follow up with client on payment (within 1 week).",1.2.4.7
+,1.2.4.6,Sales Executive,"If yes, Run through Checklist of Document for Project Kickoff and prepare necessary documents for client's signing.","2.1, 2.2, 2.3, 2.4"
+,1.2.4.7,Admin,Did Client pay?,"1.2.4.8, 1.2.4.6"
+,1.2.4.8,Admin,"If no, END.",
+2.1 Project Kickoff - SFA,2.1.1,[N/A],STAGE 2.1.1: CONNECT STAKEHOLDERS,2.1.1.1
+,2.1.1.1,Sales Executive,Create Group Chat & add all stakeholders.,2.1.1.2
+,2.1.1.2,Sales Executive,"Sends list of required docs in Client Group Chat (Requested Information: ACRA, NRIC, Contact Number, Email. Other: Tenancy agreement, Layout plan, Food & drinks menu, Pest control contract, Food handlers' certificate(s) and NRIC(s), Food Hygiene Officer's certificate and NRIC (if unit exceeds 16sqm), Stamp duty).",2.1.1.3
+,2.1.1.3,Admin,Request Client to add MD on Client's Corp Pass.,2.1.1.4
+,2.1.1.4,Client,Does Client know how to add?,"2.1.1.5, 2.1.1.6"
+,2.1.1.5,Client,"If yes, Add MD on Corp Pass.",2.1.2
+,2.1.1.6,Admin,"If no, Help Client to add MD on Client's Corp Pass.",2.1.2
+,2.1.2,[N/A],STAGE 2.1.2: OBTAIN CORP PASS ACCESS,2.1.2.1
+,2.1.2.1,Client,Has Client given the necessary documents?,"2.1.2.2, 2.1.2.3"
+,2.1.2.2,Client,"If yes, Sends requested Docs & Information.",2.1.2.4
+,2.1.2.3,Sales Executive,"If no, Follow up with Client on list of documents.",2.1.2.1
+,2.1.2.4,Admin,Check if client has paid.,"2.1.3, 2.1.4"
+,2.1.3,[N/A],STAGE 2.1.3: PREPARE LETTER OF AUTHORISATION,2.1.3.1
+,2.1.3.1,Admin,Review received documents & information.,2.1.3.2
+,2.1.3.2,Admin,Prepare Letter of Authorisation (LoA).,2.1.3.3
+,2.1.3.3,Admin,Send LoA to client for execution.,2.1.3.4
+,2.1.3.4,Client,Executes LoA.,2.1.3.5
+,2.1.3.5,Client,Sends executed LoA to Admin.,2.1.3.6
+,2.1.3.6,Admin,Receives LoA.,2.1.3.7
+,2.1.3.7,Admin,Send documents to Admin for online submission.,2.1.6
+,2.1.4,[N/A],STAGE 2.1.4: PREPARE PLANS FOR REGULATORY COMPLIANCE,2.1.4.1
+,2.1.4.1,Project Manager,Review layout plan.,2.1.4.2
+,2.1.4.2,Admin,"Is the floor plan compliant with SFA's requirements? (Common requirements: Tray return location, Number of wash basins, Number of toilets, Greasetrap access).","2.1.6, 2.1.4.3"
+,2.1.4.3,Admin,"If no, Suggest rectifications (Edit Layout Plan with suggested rectifications).",2.1.4.4
+,2.1.4.4,Sales Executive,Receives edited Layout Plan and forwards to client.,2.1.4.5
+,2.1.4.5,Client,Receive rectification comments.,2.1.4.6
+,2.1.4.6,Client,Do clients have further comments to suggested rectifications?,"2.1.4.7, 2.1.4.10"
+,2.1.4.7,Project Manager,"If yes, Collate comments from client.",2.1.4.8
+,2.1.4.8,Project Manager,Send layout plan & consolidated rectification comments to Freelancers.,2.1.4.9
+,2.1.4.9,Freelancers,"Touch up layout plan & include comments (Content of project: List of equipment, Compliance with Food Hygiene code).",2.1.4.10
+,2.1.4.10,Freelancers,Sends to PM.,2.1.4.11
+,2.1.4.11,Project Manager,Receives revised layout plan.,2.1.4.12
+,2.1.4.12,Project Manager,Sends to client as project update.,2.1.5
+,2.1.5,[N/A],"STAGE 2.1.5: SEEK CLIENT'S COMMENTS, IF ANY",2.1.5.1
+,2.1.5.1,Client,Receives revised floor plans.,2.1.5.2
+,2.1.5.2,Client,Do clients have any comments on floor plans?,"2.1.5.3, 2.1.5.4"
+,2.1.5.3,Project Manager,"If yes, Revise drawing as per clients' comments.",2.1.4.8
+,2.1.5.4,Admin,"If no, Send documents to Admin for online submission.",2.1.6
+,2.1.6,[N/A],STAGE 2.1.6: SUBMISSION ON GO BUSINESS SG,2.1.6.1
+,2.1.6.1,Admin,Log onto Go Business SG (https://www.gobusiness.gov.sg/#).,2.1.6.2
+,2.1.6.2,Admin,Request OTP from MD.,2.1.6.3
+,2.1.6.3,Managing Director,Send OTP.,2.1.6.4
+,2.1.6.4,Admin,Receive OTP.,2.1.6.5
+,2.1.6.5,Admin,Prepare Draft Submission.,2.1.6.6
+,2.1.6.6,Admin,Verify details of Draft Submission.,2.1.6.7
+,2.1.6.7,Admin,Print Summary & attachments.,2.1.6.8
+,2.1.6.8,Admin,Submit on Go Business SG.,2.1.6.9
+,2.1.6.9,Admin,Print acknowledgment of submission.,2.1.6.10
+,2.1.6.10,Admin,File printed Summary & attachments.,3.1
+2.2 Project Kickoff - HDB,2.2.1,[N/A],STAGE 2.2.1: PREPARE HDB FORM,2.2.1.1
+,2.2.1.1,Sales Executive,Fill up HDB Form.,2.2.2
+,2.2.2,[N/A],STAGE 2.2.2: CONNECT STAKEHOLDERS,2.2.2.1
+,2.2.2.1,Sales Executive,Create Group Chat & add all stakeholders.,2.2.2.2
+,2.2.2.2,Sales Executive,"Sends list of required docs in Client Group Chat (Requested Information: Layout plan OR photos of the premises, ACRA, NRIC of Director, Contact Number, Email).",2.2.2.3
+,2.2.2.3,Client,Receive & execute forms.,2.2.2.4
+,2.2.2.4,Client,Send executed forms to SE.,2.2.2.5
+,2.2.2.5,Sales Executive,Receive executed Forms.,2.2.2.6
+,2.2.2.6,Sales Executive,Has Client given the necessary documents?,"2.2.2.7, 2.2.2.8"
+,2.2.2.7,Client,"If yes, Sends requested Docs & Information.",2.2.3
+,2.2.2.8,Sales Executive,"If no, Follow up with Client on list of documents.",2.2.2.6
+,2.2.3,[N/A],STAGE 2.2.3: PREPARE DETAILED DRAWINGS FOR REGULATORY COMPLIANCE,2.2.3.1
+,2.2.3.1,Project Manager,Prepare Building Plan (BP).,2.2.3.2
+,2.2.3.2,Admin,Send necessary documents to Freelancer to draw MV.,2.2.3.3
+,2.2.3.3,Freelancers,Prepare detailed drawings.,"2.2.3.4, 2.2.3.7"
+,2.2.3.4,Sales Executive,Receive detailed drawings by Freelancer.,2.2.3.5
+,2.2.3.5,Sales Executive,SE checks for whether revisions tally with site condition.,2.2.3.6
+,2.2.3.6,Sales Executive,Are there revisions to be made by Freelancer?,"2.2.3.12, 2.2.3.13"
+,2.2.3.7,Project Manager,Receive detailed drawings by Freelancer.,2.2.3.8
+,2.2.3.8,Project Manager,"PM checks for regulatory compliance (FS code, etc).",2.2.3.9
+,2.2.3.9,Project Manager,Are there revisions to be made by Freelancer?,"2.2.3.10, 2.2.3.11"
+,2.2.3.10,Project Manager,"If yes, Instructs Freelancers on revisions.",2.2.3.11
+,2.2.3.11,Project Manager,"Collate and send detailed drawings (BP, MV) to Vetter/RI for approval.",2.2.3.14
+,2.2.3.12,Sales Executive,"If yes, Instructs Freelancers on revisions.",2.2.3.13
+,2.2.3.13,Sales Executive,Send to PM to collate.,2.2.3.11
+,2.2.3.14,Civil Engineer,Receive detailed drawings.,2.2.3.15
+,2.2.3.15,Civil Engineer,Are the detailed drawings approved by Vetter/RI?,"2.2.4, 2.2.3.16"
+,2.2.3.16,Project Manager,"If no, Collate Vetter/RI's comments & revisions.",2.2.3.17
+,2.2.3.17,Project Manager,Revise Building Plan (BP).,2.2.3.18
+,2.2.3.18,Project Manager,Instructs Freelancers on revisions.,2.2.3.3
+,2.2.4,[N/A],STAGE 2.2.4: ENDORSE & ENCRYPT DETAILED DRAWINGS,2.2.4.1
+,2.2.4.1,Project Manager,Send detailed drawings to Qualified Persons (QP).,"2.2.4.2, 2.2.4.6"
+,2.2.4.2,Mechanical Engineer,Receives ACMV & HDB Form.,2.2.4.3
+,2.2.4.3,Mechanical Engineer,Endorses & encrypts ACMV.,2.2.4.4
+,2.2.4.4,Mechanical Engineer,Sends to PM.,2.2.4.5
+,2.2.4.5,Project Manager,Receives endorsed & encrypted ACMV.,2.2.4.11
+,2.2.4.6,Civil Engineer,Receives BP & HDB Form.,2.2.4.7
+,2.2.4.7,Civil Engineer,Endorses BP.,2.2.4.8
+,2.2.4.8,Civil Engineer,Sends to PM.,2.2.4.9
+,2.2.4.9,Project Manager,Receives endorsed BP.,2.2.4.10
+,2.2.4.10,Admin,Encrypt BP.,2.2.4.11
+,2.2.4.11,Project Manager,Consolidate Documents from QPs.,2.2.5
+,2.2.5,[N/A],STAGE 2.2.5: SUBMISSION ON CORENET,2.2.5.1
+,2.2.5.1,Admin,Log onto Corenet.,2.2.5.2
+,2.2.5.2,Admin,Request OTP from MD.,2.2.5.3
+,2.2.5.3,Managing Director,Send OTP.,2.2.5.4
+,2.2.5.4,Admin,Receive OTP.,2.2.5.5
+,2.2.5.5,Admin,Prepare Draft Submission.,2.2.5.6
+,2.2.5.6,Admin,Verify details of Draft Submission.,2.2.5.7
+,2.2.5.7,Admin,Print Summary & attachments.,2.2.5.8
+,2.2.5.8,Admin,Submit on Corenet.,2.2.5.9
+,2.2.5.9,Admin,Print acknowledgment of submission.,2.2.5.10
+,2.2.5.10,Admin,File printed Summary & attachments.,2.2.5.11
+,2.2.5.11,Admin,Email client on submission.,"2.2.5.12, 2.2.5.13"
+,2.2.5.12,Client,Receive email confirmation of submission.,3.2
+,2.2.5.13,Admin,Follow up with HDB (within 1 week).,3.2
+2.3 Project Kickoff - URA,2.3.1,[N/A],STAGE 2.3.1: CONNECT STAKEHOLDERS,2.3.1.1
+,2.3.1.1,Sales Executive,Create Group Chat & add all stakeholders (LANDLORD NOT INCLUDED).,2.3.1.2
+,2.3.1.2,Sales Executive,"Sends list of required docs in Client Group Chat (Requested Information: Layout plan, Photos of the premises if possible, Landlord's NRIC, Landlord Contact Number, Landlord Email, Business Plan/Concept, ACRA, NRIC of Director, Director's Contact Number, Director's Email).",2.3.1.3
+,2.3.1.3,Client,Has Client given the necessary documents?,"2.3.1.4, 2.3.1.5"
+,2.3.1.4,Client,"If yes, Sends requested Docs & Information.","2.3.2, 2.3.3, 2.3.4"
+,2.3.1.5,Sales Executive,"If no, Follow up with Client on list of documents.",2.3.1.3
+,2.3.2,[N/A],STAGE 2.3.2: PREPARE LETTER OF AUTHORISATION,2.3.2.1
+,2.3.2.1,Sales Executive,Review received documents & information.,2.3.2.2
+,2.3.2.2,Sales Executive,Prepare Letter of Authorisation (LoA).,2.3.2.3
+,2.3.2.3,Sales Executive,Send LoA to client for execution.,2.3.2.4
+,2.3.2.4,Client,Executes LoA.,2.3.2.5
+,2.3.2.5,Client,Sends executed LoA to SE.,2.3.2.6
+,2.3.2.6,Sales Executive,Receives executed LoA.,2.3.2.7
+,2.3.2.7,Sales Executive,Send to Admin.,2.3.5
+,2.3.3,[N/A],STAGE 2.3.3: PREPARE BUSINESS PLAN FOR REGULATORY COMPLIANCE,2.3.3.1
+,2.3.3.1,Project Manager,Review received documents & information (Information Required: Business Plan/Concept).,2.3.3.2
+,2.3.3.2,Project Manager,Edits Business Plan for compliance with URA's requirements.,2.3.3.3
+,2.3.3.3,Project Manager,Send edited Business Plan to SE for review & approval.,2.3.3.4
+,2.3.3.4,Sales Executive,Receives edited Business Plan.,2.3.3.5
+,2.3.3.5,Sales Executive,Reviews edited Business Plan.,2.3.3.6
+,2.3.3.6,Sales Executive,Is edited Business Plan in line with what was preliminarily guided by URA during BD process check-in?,"2.3.3.7, 2.3.3.8"
+,2.3.3.7,Sales Executive,"If yes, Sends revised/edited Business Plan to client for approval.",2.3.5
+,2.3.3.8,Sales Executive,"If no, Gives Admin comments on edited Business Plan.",2.3.3.9
+,2.3.3.9,Admin,Takes in SE's comments and revises Business Plan.,2.3.3.4
+,2.3.4,[N/A],STAGE 2.3.4: PREPARE FLOORPLAN FOR REGULATORY COMPLIANCE,2.3.4.1
+,2.3.4.1,Project Manager,"Review received documents & information (Information Required: Layout Plan. Review for Compliance: 60:40 ratio, Fire Safety).",2.3.4.2
+,2.3.4.2,Project Manager,Draft advice on possible non-compliance and revisions needed for SE to inform client.,2.3.4.3
+,2.3.4.3,Sales Executive,Forward advice to client on possible non-compliance and revisions needed.,2.3.4.4
+,2.3.4.4,Client,Accept proposed suggestions/revisions to floorplan.,2.3.4.5
+,2.3.4.5,Client,Need Quote?,"1.2, 2.3.4.6"
+,2.3.4.6,Sales Executive,"If no, Informs PM.",2.3.4.7
+,2.3.4.7,Project Manager,Instructs Freelancers on revisions.,2.3.4.8
+,2.3.4.8,Freelancers,Receives instructions.,2.3.4.9
+,2.3.4.9,Freelancers,Edit Floorplan.,2.3.4.10
+,2.3.4.10,Freelancers,Send PM.,2.3.4.11
+,2.3.4.11,Project Manager,Receives revised Floorplan.,2.3.4.12
+,2.3.4.12,Project Manager,Send to SE to forward to client for approval.,2.3.4.13
+,2.3.4.13,Sales Executive,Reviews revised Floorplan.,2.3.4.14
+,2.3.4.14,Client,Receive detailed drawings.,2.3.4.15
+,2.3.4.15,Client,Are the detailed drawings approved by client?,"2.3.4.22, 2.3.4.16"
+,2.3.4.16,Project Manager,"If no, Collate Client's comments & revisions.",2.3.4.17
+,2.3.4.17,Project Manager,Revise Building Plan (BP).,2.3.4.18
+,2.3.4.18,Project Manager,Instructs Freelancers on revisions.,2.3.4.19
+,2.3.4.19,Freelancers,Receives instructions.,2.3.4.20
+,2.3.4.20,Freelancers,Edit BP.,2.3.4.21
+,2.3.4.21,Freelancers,Send PM.,2.3.4.11
+,2.3.4.22,Project Manager,"If yes, Sends Admin Approved Detailed Drawings for Submission.",2.3.5
+,2.3.5,[N/A],STAGE 2.3.5: SUBMISSION ON GO BUSINESS SG,2.3.5.1
+,2.3.5.1,Admin,Log onto Go Business SG (https://www.gobusiness.gov.sg/#).,2.3.5.2
+,2.3.5.2,Admin,Request OTP from MD.,2.3.5.3
+,2.3.5.3,Managing Director,Send OTP.,2.3.5.4
+,2.3.5.4,Admin,Receive OTP.,2.3.5.5
+,2.3.5.5,Admin,Prepare Draft Submission.,2.3.5.6
+,2.3.5.6,Admin,Verify details of Draft Submission.,2.3.5.7
+,2.3.5.7,Admin,Print Summary & attachments.,2.3.5.8
+,2.3.5.8,Admin,Submit on Go Business SG.,2.3.5.9
+,2.3.5.9,Admin,Print acknowledgment of submission.,2.3.5.10
+,2.3.5.10,Admin,File printed Summary & attachments.,3.3
+2.4 Project Kickoff - SCDF,2.4.1,[N/A],STAGE 2.4.1: CONNECT STAKEHOLDERS,2.4.1.1
+,2.4.1.1,Sales Executive,"Sends list of required docs in Client Group Chat (Requested Information: Layout plan OR photos of the premises, ACRA, NRIC of Director, Contact Number, Email. To-Be: Decision > is it an existing unit or bare unit? Development of checklist for site visit, Collation of evidence required).",2.4.1.2
+,2.4.1.2,Client,Has Client given the necessary documents?,"2.4.1.3, 2.4.1.4"
+,2.4.1.3,Client,"If yes, Sends requested Docs & Information.","2.4.2, 2.4.3"
+,2.4.1.4,Sales Executive,"If no, Follow up with Client on list of documents.",2.4.1.2
+,2.4.2,[N/A],STAGE 2.4.2: PREPARE LETTER OF AUTHORISATION,2.4.2.1
+,2.4.2.1,Sales Executive,Review received documents & information.,2.4.2.2
+,2.4.2.2,Sales Executive,Prepare Letter of Authorisation (LoA).,2.4.2.3
+,2.4.2.3,Sales Executive,Send LoA to client for execution.,2.4.2.4
+,2.4.2.4,Client,Executes LoA.,2.4.2.5
+,2.4.2.5,Client,Sends executed LoA to Admin.,2.4.2.6
+,2.4.2.6,Admin,Receives LoA.,2.4.4
+,2.4.3,[N/A],STAGE 2.4.3: REGISTER PROJECT ON CORENET & OBTAIN FORMS FOR PROJECT,2.4.3.1
+,2.4.3.1,Admin,Register project on Corenet.,2.4.3.2
+,2.4.3.2,Admin,Obtain project reference number.,2.4.3.3
+,2.4.3.3,Admin,"Download Forms (Depending on department submitting to, different forms will be auto-generated by the Corenet's system).",2.4.3.4
+,2.4.3.4,Admin,Fill up Forms.,2.4.3.5
+,2.4.3.5,Admin,Save draft Forms in working folder for subsequent submission.,2.4.4
+,2.4.4,[N/A],STAGE 2.4.4: PREPARE DETAILED DRAWINGS FOR REGULATORY COMPLIANCE,2.4.4.1
+,2.4.4.1,Project Manager,"Prepare Building Plan (BP) (Necessary documents required to prepare first draft of BP by PM include: BP (Whole Storey Plan), Proposed layout plan (by client); and/or site photos/videos).",2.4.4.2
+,2.4.4.2,Admin,"Send necessary documents to Freelancer to draw MV (Documents to be sent to Freelancer: 1. Building Plan (Draft BP), as prepared by PM. 2. Proposed layout plan (by client); and 3. Site photos/videos).",2.4.4.3
+,2.4.4.3,Freelancers,"Prepare detailed drawings (Documents required to be prepared by Freelancer: 1. Detailed drawings: a. Building Plan (Revised BP), as prepared by Freelancer, b. Mechanical Ventilation (MV), c. Fire suppression / Sprinklers (FP)).",2.4.4.4
+,2.4.4.4,Freelancers,Send detailed drawings to PM & SE.,"2.4.4.5, 2.4.4.6"
+,2.4.4.5,Sales Executive,Receive detailed drawings by Freelancer.,2.4.4.7
+,2.4.4.6,Project Manager,Receive detailed drawings by Freelancer.,2.4.4.8
+,2.4.4.7,Sales Executive,SE checks for whether revisions tally with site condition.,2.4.4.9
+,2.4.4.8,Project Manager,"PM checks for regulatory compliance (FS code, etc).",2.4.4.9
+,2.4.4.9,Sales Executive,Are there revisions to be made by Freelancer? (Joint review by PM and SE),"2.4.4.10, 2.4.4.12"
+,2.4.4.10,Sales Executive,"If yes, Instructs Freelancers on revisions.",2.4.4.11
+,2.4.4.11,Sales Executive,Revise detailed drawings by Freelancer.,2.4.4.3
+,2.4.4.12,Project Manager,"If no, Collate and send detailed drawings (BP, MV) to Vetter/RI for approval.",2.4.4.13
+,2.4.4.13,Vetter / Registered Inspector,Receive detailed drawings.,2.4.4.14
+,2.4.4.14,Vetter / Registered Inspector,Are the detailed drawings approved by Vetter/RI?,"2.4.5, 2.4.4.15"
+,2.4.4.15,Project Manager,"If no, Collate Vetter/RI's comments & revisions.",2.4.4.16
+,2.4.4.16,Project Manager,Revise Building Plan (BP).,2.4.4.17
+,2.4.4.17,Project Manager,Instructs Freelancers on revisions.,2.4.4.3
+,2.4.5,[N/A],STAGE 2.4.5: ENDORSE & ENCRYPT DETAILED DRAWINGS,2.4.5.1
+,2.4.5.1,Project Manager,Send detailed drawings to Qualified Persons (QP).,"2.4.5.2, 2.4.5.6"
+,2.4.5.2,Mechanical Engineer,Receives MV.,2.4.5.3
+,2.4.5.3,Mechanical Engineer,Endorses & encrypts MV.,2.4.5.4
+,2.4.5.4,Mechanical Engineer,Sends to PM.,2.4.5.5
+,2.4.5.5,Project Manager,Receives endorsed & encrypted ACMV.,2.4.5.11
+,2.4.5.6,Civil Engineer,Receives BP.,2.4.5.7
+,2.4.5.7,Civil Engineer,Endorses BP.,2.4.5.8
+,2.4.5.8,Civil Engineer,Sends to PM.,2.4.5.9
+,2.4.5.9,Admin,Receives endorsed BP.,2.4.5.10
+,2.4.5.10,Admin,Encrypt BP.,2.4.5.11
+,2.4.5.11,Project Manager,Consolidate Documents from QPs.,2.4.6
+,2.4.6,[N/A],STAGE 2.4.6: SUBMISSION ON CORENET,2.4.6.1
+,2.4.6.1,Admin,Log onto Corenet (https://www.corenet.gov.sg/corenet/eSS/SoftwareDownloads/index.htm).,2.4.6.2
+,2.4.6.2,Admin,Request OTP from CE and ME.,2.4.6.3
+,2.4.6.3,Mechanical Engineer / Civil Engineer,Send OTP.,2.4.6.4
+,2.4.6.4,Admin,Receive OTP.,2.4.6.5
+,2.4.6.5,Project Manager,Prepare Draft Submission.,2.4.6.6
+,2.4.6.6,Project Manager,Verify details of Draft Submission.,2.4.6.7
+,2.4.6.7,Project Manager,Screenshot Submission & attachments.,2.4.6.8
+,2.4.6.8,Project Manager,Submit on Corenet.,2.4.6.9
+,2.4.6.9,Project Manager,Print acknowledgment of submission.,2.4.6.10
+,2.4.6.10,Project Manager,File screenshot of Summary & attachments.,3.4
+2.5 Project Kickoff - SPF,2.5.1,[N/A],STAGE 2.5.1: CONNECT STAKEHOLDERS,2.5.1.1
+,2.5.1.1,Sales Executive,Create Group Chat & add all stakeholders.,2.5.1.2
+,2.5.1.2,Sales Executive,"Sends list of required docs in Client Group Chat (Information needed for LoA: ACRA, NRIC of Director, Contact Number, Email. Other information needed: Tenancy agreement, Layout plan).",2.5.1.3
+,2.5.1.3,Client,Receive & execute forms.,2.5.1.4
+,2.5.1.4,Client,Send executed forms to SE.,2.5.1.5
+,2.5.1.5,Sales Executive,Receive executed Forms.,2.5.1.6
+,2.5.1.6,Sales Executive,Has Client given the necessary documents?,"2.5.1.7, 2.5.1.8"
+,2.5.1.7,Client,"If yes, Sends requested Docs & Information.",2.5.2
+,2.5.1.8,Sales Executive,"If no, Follow up with Client on list of documents.",2.5.1.6
+,2.5.2,[N/A],STAGE 2.5.2: OBTAIN CLARIFICATION ON LIQUOR AND/OR PUBLIC ENTERTAINMENT NEEDS,2.5.2.1
+,2.5.2.1,Admin,Review received documents & information.,2.5.2.2
+,2.5.2.2,Admin,"Clarify with Client on Liquor Licence needs & Public Entertainment needs (Liquor Licence: Types of alcoholic beverages sold, operating time, dine-in/takeaway. Public Entertainment: Will there be live entertainment?).",2.5.2.3
+,2.5.2.3,Sales Executive,Send information on Liquor Licence needs & Public Entertainment needs.,2.5.2.4
+,2.5.2.4,Client,Is information given by client complete?,"2.5.4, 2.5.2.2"
+,2.5.4,[N/A],STAGE 2.5.4: SUBMISSION ON GO BUSINESS SG,2.5.4.1
+,2.5.4.1,Admin,Log onto Go Business SG (https://www.gobusiness.gov.sg/#).,2.5.4.2
+,2.5.4.2,Admin,Request OTP from MD.,2.5.4.3
+,2.5.4.3,Managing Director,Send OTP.,2.5.4.4
+,2.5.4.4,Admin,Receive OTP.,2.5.4.5
+,2.5.4.5,Admin,Prepare Draft Submission (& attach documents).,2.5.4.6
+,2.5.4.6,Admin,Verify details of Draft Submission.,2.5.4.7
+,2.5.4.7,Admin,Print/ Screenshot Summary & attachments.,2.5.4.8
+,2.5.4.8,Admin,Submit on Go Business SG.,2.5.4.9
+,2.5.4.9,Admin,Print acknowledgment of submission.,2.5.4.10
+,2.5.4.10,Admin,File printed Summary & attachments & acknowledgement.,3.5.1
+2.6 Project Kickoff - NEA,2.6.1,[N/A],STAGE 2.6.1: CONNECT STAKEHOLDERS,2.6.1.1
+,2.6.1.1,Sales Executive,Create Group Chat & add all stakeholders.,2.6.1.2
+,2.6.1.2,Sales Executive,"Sends list of required docs in Client Group Chat (Information needed for LoA: ACRA (or client's confirmation that no company is registered yet), NRIC of Director, Contact Number, Email. Other information needed: Business Plan, Layout plan).",2.6.1.3
+,2.6.1.3,Client,Receive & execute forms.,2.6.1.4
+,2.6.1.4,Client,Send executed forms to SE.,2.6.1.5
+,2.6.1.5,Sales Executive,Receive executed Forms.,2.6.1.6
+,2.6.1.6,Sales Executive,Has Client given the necessary documents?,"2.6.1.7, 2.6.1.8"
+,2.6.1.7,Client,"If yes, Sends requested Docs & Information.",2.6.2
+,2.6.1.8,Sales Executive,"If no, Follow up with Client on list of documents.",2.6.1.6
+,2.6.2,[N/A],STAGE 2.6.2: OBTAIN CORP PASS ACCESS,2.6.2.1
+,2.6.2.1,Admin,Has Client registered a company?,"2.6.2.2, 2.6.2.5"
+,2.6.2.2,Admin,"If yes, Request Client to add MD on Client's Corp Pass.",2.6.2.3
+,2.6.2.3,Client,Does Client know how to add?,"2.6.2.4, 2.6.2.6"
+,2.6.2.4,Client,"If yes, Add MD on Corp Pass.",2.6.3
+,2.6.2.5,Admin,"If no, Where client has not registered a company, Dyson will then make the application to NEA directly in MD's name.",2.6.3
+,2.6.2.6,Admin,"If no, Help Client to add MD on Client's Corp Pass at client's site (Must be done face-to-face with client for PDPA compliance).",2.6.3
+,2.6.3,[N/A],STAGE 2.6.3: PREPARE BUSINESS PLAN FOR REGULATORY COMPLIANCE,2.6.3.1
+,2.6.3.1,Admin,Review received documents & information (Information Required: Business Plan/Concept).,2.6.3.2
+,2.6.3.2,Admin,"Edits Business Plan for compliance with NEA's requirements (Note: If guidance is required, Admin is able to offer).",2.6.3.3
+,2.6.3.3,Admin,Send edited Business Plan to MD for review & approval.,2.6.3.4
+,2.6.3.4,Managing Director,Receives edited Business Plan.,2.6.3.5
+,2.6.3.5,Managing Director,Reviews edited Business Plan.,2.6.3.6
+,2.6.3.6,Managing Director,Is edited Business Plan approved?,"2.6.3.7, 2.6.3.8"
+,2.6.3.7,Sales Executive,"If yes, Sends revised/edited Business Plan to client for approval.",2.6.4
+,2.6.3.8,Managing Director,"If no, Gives SE comments on edited Business Plan.",2.6.3.9
+,2.6.3.9,Admin,Takes in MD's comments and revises Business Plan.,2.6.3.3
+,2.6.4,[N/A],STAGE 2.6.4: SUBMISSION ON NEA,2.6.4.1
+,2.6.4.1,Admin,Log onto NEA (https://www.eportal.nea.gov.sg/).,2.6.4.2
+,2.6.4.2,Admin,Request OTP from MD.,2.6.4.3
+,2.6.4.3,Managing Director,Send OTP.,2.6.4.4
+,2.6.4.4,Admin,Receive OTP.,2.6.4.5
+,2.6.4.5,Admin,Prepare Draft Submission (& attach documents).,2.6.4.6
+,2.6.4.6,Admin,Verify details of Draft Submission.,2.6.4.7
+,2.6.4.7,Admin,Print/ Screenshot Summary & attachments.,2.6.4.8
+,2.6.4.8,Admin,Submit on NEA.,2.6.4.9
+,2.6.4.9,Admin,Print acknowledgment of submission.,2.6.4.10
+,2.6.4.10,Admin,File printed Summary & attachments & acknowledgement.,3.7.1
+2.7 Project Kickoff - HSA,2.7.1,[N/A],STAGE 2.7.1: CONNECT STAKEHOLDERS,2.7.1.1
+,2.7.1.1,Sales Executive,Create Group Chat & add all stakeholders.,2.7.1.2
+,2.7.1.2,Sales Executive,"Sends list of required docs in Client Group Chat (Information needed for LoA: ACRA, NRIC of Director, Contact Number, Email. Other information needed: Tenancy Agreement, Layout plan, Photos of Premises (shopfront), Photos of Premises (places to keep tobacco)).",2.7.2.1
+,2.7.2,[N/A],STAGE 2.7.2: OBTAIN CORP PASS ACCESS,2.7.2.1
+,2.7.2.1,Admin,Request Client to add MD on Client's Corp Pass.,2.7.2.2
+,2.7.2.2,Client,Does Client know how to add?,"2.7.2.3, 2.7.2.4"
+,2.7.2.3,Client,"If yes, Add MD on Corp Pass.",2.7.1.3
+,2.7.2.4,Admin,"If no, Help Client to add MD on Client's Corp Pass.",2.7.1.3
+,2.7.1.3,Sales Executive,Has Client given the necessary documents?,"2.7.1.4, 2.7.1.5"
+,2.7.1.4,Client,"If yes, Sends requested Docs & Information (Note: If client has paid).","2.7.3, 2.7.4"
+,2.7.1.5,Sales Executive,"If no, Follow up with Client on list of documents.",2.7.1.3
+,2.7.3,[N/A],STAGE 2.7.3: PREPARE LETTER OF AUTHORISATION,2.7.3.1
+,2.7.3.1,Admin,"Review received documents & information (Information Required: ACRA, NRIC of Director, Contact Number, Email).",2.7.3.2
+,2.7.3.2,Admin,Prepare Letter of Authorisation (LoA) in MD's name.,2.7.3.3
+,2.7.3.3,Admin,Send LoA to client for execution.,2.7.3.4
+,2.7.3.4,Client,Executes LoA.,2.7.3.5
+,2.7.3.5,Client,Sends executed LoA to Admin.,2.7.3.6
+,2.7.3.6,Admin,Receives LoA.,2.7.5
+,2.7.4,[N/A],STAGE 2.7.4: REVIEW LAYOUT FOR REGULATORY COMPLIANCE,2.7.4.1
+,2.7.4.1,Admin,"Review received documents & information (Information Required: Tenancy Agreement, Layout Plan, Photos of Premises (shopfront), Photos of Premises (Photos of places to keep the tobacco)).",2.7.4.2
+,2.7.4.2,Admin,Review Layout Plan.,2.7.4.3
+,2.7.4.3,Admin,Is Layout Plan compliant with HSA's requirements?,"2.7.5, 2.7.4.4"
+,2.7.4.4,Admin,"If no, Edit Layout Plan.",2.7.4.5
+,2.7.4.5,Admin,Send edited Layout Plan to SE to forward client for review & approval.,2.7.4.6
+,2.7.4.6,Sales Executive,Receives edited Layout Plan and forwards to client.,2.7.4.7
+,2.7.4.7,Client,Receives edited Layout Plan.,2.7.4.8
+,2.7.4.8,Client,Reviews edited Layout Plan.,2.7.4.9
+,2.7.4.9,Client,Is edited Layout Plan approved?,"2.7.4.10, 2.7.4.12"
+,2.7.4.10,Sales Executive,"If yes, Informs PM of approval.",2.7.4.11
+,2.7.4.11,Project Manager,Sends to Admin for Submission.,2.7.5
+,2.7.4.12,Client,"If no, Gives Sales Executive comments on edited Layout Plan.",2.7.4.13
+,2.7.4.13,Sales Executive,Takes in Client's comments and revises Layout Plan.,2.7.4.4
+,2.7.5,[N/A],STAGE 2.7.5: SUBMISSION ON GO BUSINESS,2.7.5.1
+,2.7.5.1,Admin,Log onto Go Business (https://www.gobusiness.gov.sg/#).,2.7.5.2
+,2.7.5.2,Admin,Request OTP from MD.,2.7.5.3
+,2.7.5.3,Managing Director,Send OTP.,2.7.5.4
+,2.7.5.4,Admin,Receive OTP.,2.7.5.5
+,2.7.5.5,Admin,Prepare Draft Submission (& attach documents).,2.7.5.6
+,2.7.5.6,Admin,Verify details of Draft Submission.,2.7.5.7
+,2.7.5.7,Admin,Print/ Screenshot Summary & attachments.,2.7.5.8
+,2.7.5.8,Admin,Submit on Go Business.,2.7.5.9
+,2.7.5.9,Admin,Make Payment.,2.7.5.10
+,2.7.5.10,Admin,Print acknowledgment of submission.,2.7.5.11
+,2.7.5.11,Admin,File printed Summary & attachments & acknowledgement.,3.7
+2.8 Project Kickoff - JTC,2.8.1,[N/A],STAGE 2.8.1: CONNECT STAKEHOLDERS,2.8.1.1
+,2.8.1.1,Sales Executive,Create Group Chat & add all stakeholders (LANDLORD NOT INCLUDED).,2.8.1.2
+,2.8.1.2,Sales Executive,"Sends list of required docs in Client Group Chat (Requested Information: Layout plan, Photos of the premises, if possible, Landlord's NRIC, Landlord Contact Number, Landlord Email, ACRA, NRIC of Director, Director's Contact Number, Director's Email).",2.8.1.3
+,2.8.1.3,Client,Has Client given the necessary documents?,"2.8.1.4, 2.8.1.5"
+,2.8.1.4,Client,"If yes, Sends requested Docs & Information.","2.8.2, 2.8.3"
+,2.8.1.5,Sales Executive,"If no, Follow up with Client on list of documents.",2.8.1.3
+,2.8.2,[N/A],STAGE 2.8.2: PREPARE LETTER OF AUTHORISATION,2.8.2.1
+,2.8.2.1,Sales Executive,"Review received documents & information (Information Required: ACRA, NRIC of Director, Contact Number, Email).",2.8.2.2
+,2.8.2.2,Sales Executive,Prepare Letter of Authorisation (LoA).,2.8.2.3
+,2.8.2.3,Sales Executive,Send LoA to client for execution.,2.8.2.4
+,2.8.2.4,Client,Executes LoA.,2.8.2.5
+,2.8.2.5,Client,Sends executed LoA to SE.,2.8.2.6
+,2.8.2.6,Sales Executive,Receives executed LoA.,2.8.2.7
+,2.8.2.7,Sales Executive,Send to Admin.,2.8.4
+,2.8.3,[N/A],STAGE 2.8.3: PREPARE FLOORPLAN FOR REGULATORY COMPLIANCE,2.8.3.1
+,2.8.3.1,Project Manager,Review received documents & information (Information Required: Layout Plan. Review for Compliance: 1. 60:40 ratio maintained for main & ancilliary business respectively. a. 60% for seating and 40% for food preparation. b. 60% for warehousing/40% for office use. 2. Fire Safety (SCDF): a. Enrichment Centres: desired number of rooms. b. Clear escape route of 1.2m width).,2.8.3.2
+,2.8.3.2,Project Manager,Draft advice on possible non-compliance and revisions needed for SE to inform client.,2.8.3.3
+,2.8.3.3,Sales Executive,Forward advice to client on possible non-compliance and revisions needed.,2.8.3.4
+,2.8.3.4,Client,Accept proposed suggestions/revisions to floorplan.,2.8.3.5
+,2.8.3.5,Sales Executive,Informs PM.,2.8.3.6
+,2.8.3.6,Project Manager,Instructs Freelancers on revisions.,2.8.3.7
+,2.8.3.7,Freelancers,Receives instructions.,2.8.3.8
+,2.8.3.8,Freelancers,Edit BP.,2.8.3.9
+,2.8.3.9,Freelancers,Send PM.,2.8.3.10
+,2.8.3.10,Project Manager,Receives revised Floorplan.,2.8.3.11
+,2.8.3.11,Project Manager,Send to SE to forward to client for approval.,2.8.3.12
+,2.8.3.12,Sales Executive,Send revised Floorplan to client for approval.,2.8.3.13
+,2.8.3.13,Client,Receive detailed drawings of Floorplan.,2.8.3.14
+,2.8.3.14,Client,Does client approve the detailed drawings?,"2.8.4, 2.8.3.15"
+,2.8.3.15,Project Manager,"If no, Collate Client's comments & revisions.",2.8.3.16
+,2.8.3.16,Project Manager,Revise Building Plan (BP).,2.8.3.17
+,2.8.3.17,Project Manager,Instructs Freelancers on revisions.,2.8.3.18
+,2.8.3.18,Freelancers,Receives instructions.,2.8.3.19
+,2.8.3.19,Freelancers,Edit Floorplan.,2.8.3.20
+,2.8.3.20,Freelancers,Send PM.,2.8.3.21
+,2.8.3.21,Project Manager,Receives revised Floorplan.,2.8.4
+,2.8.4,[N/A],STAGE 2.8.4: OBTAIN NECESSARY ENDORSEMENTS FROM CIVIL ENGINEER,2.8.4.1
+,2.8.4.1,Admin,Log onto Corenet (https://www.corenet.gov.sg/corenet/eSS/SoftwareDownloads/index.htm).,2.8.4.2
+,2.8.4.2,Admin,Request OTP from MD.,2.8.4.3
+,2.8.4.3,Managing Director,Send OTP.,2.8.4.4
+,2.8.4.4,Admin,Receive OTP.,2.8.4.5
+,2.8.4.5,Admin,Download JTC Form.,2.8.4.6
+,2.8.4.6,Admin,Fill up JTC Form.,2.8.4.7
+,2.8.4.7,Admin,Send JTC Form to SE for client's signing.,2.8.4.8
+,2.8.4.8,Sales Executive,Receive JTC Form & send to client.,2.8.4.9
+,2.8.4.9,Client,Receive JTC Form.,2.8.4.10
+,2.8.4.10,Client,Signs JTC Form.,2.8.4.11
+,2.8.4.11,Client,Sends signed JTC Form to SE.,2.8.4.12
+,2.8.4.12,Sales Executive,Receive signed JTC Form & send to PM.,2.8.4.13
+,2.8.4.13,Project Manager,Send signed JTC Form to PE for endorsement.,2.8.4.14
+,2.8.4.14,Project Manager,Collate signed JTC Form & Revised Floorplan from Freelancers.,2.8.4.15
+,2.8.4.15,Project Manager,Send consolidated documents to PE for endorsement.,2.8.4.16
+,2.8.4.16,Civil Engineer,Receives consolidated documents.,2.8.4.17
+,2.8.4.17,Civil Engineer,Endorses consolidated documents.,2.8.4.18
+,2.8.4.18,Civil Engineer,Sends to PM.,2.8.4.19
+,2.8.4.19,Project Manager,Receives endorsed consolidated documents.,2.8.45
+,2.8.45,[N/A],STAGE 2.8.45: SUBMISSION ON CORENET SG,2.8.45.1
+,2.8.45.1,Admin,Prepare Draft Submission.,2.8.45.2
+,2.8.45.2,Admin,Verify details of Draft Submission.,2.8.45.3
+,2.8.45.3,Admin,Print Summary & attachments.,2.8.45.4
+,2.8.45.4,Admin,Submit on Corenet SG (https://www.corenet.gov.sg/corenet/eSS/SoftwareDownloads/index.htm).,2.8.45.5
+,2.8.45.5,Admin,Print acknowledgment of submission.,2.8.45.6
+,2.8.45.6,Admin,File printed Summary & attachments.,3.8
+3.1 Post-Submission to Project Completion - SFA,3.1.1,[N/A],STAGE 3.1.1: RECEIVE REGULATORY NOTIFICATION,3.1.1.1
+,3.1.1.1,Singapore Food Agency,SPF issues In-Principal Approval (IPA).,3.1.1.2
+,3.1.1.2,Admin,Receives IPA.,3.1.1.3
+,3.1.1.3,Client,Receives IPA.,3.1.2.1
+,3.1.2,[N/A],STAGE 3.1.2: COORDINATE ON RESPONSE TO REGULATORY NOTIFICATIONS,3.1.2.1
+,3.1.2.1,Client,Sends IPA to SE.,3.1.2.2
+,3.1.2.2,Sales Executive,Receives IPA.,3.1.2.3
+,3.1.2.3,Sales Executive,Forward IPA to Admin (via General Email).,3.1.2.4
+,3.1.2.4,Admin,Review IPA.,3.1.2.5
+,3.1.2.5,Admin,Requests documentation / status update on renovation from client.,3.1.2.6
+,3.1.2.6,Client,Sends Admin documentation / status update on renovation.,3.1.3.1
+,3.1.3,[N/A],STAGE 3.1.3: RESPOND TO REGULATORY NOTIFICATION,3.1.3.1
+,3.1.3.1,Admin,Receives information/ documentation/ clarification from client.,3.1.3.2
+,3.1.3.2,Admin,Is premise ready for inspection by SFA?,"3.1.3.5, 3.1.3.3"
+,3.1.3.3,Sales Executive,"If no, Check in on work schedule.",3.1.3.4
+,3.1.3.4,Client,Updates SE on work schedule.,3.1.3.1
+,3.1.3.5,Admin,"If yes, Log in to iFast.",3.1.3.6
+,3.1.3.6,Admin,Request OTP from MD.,3.1.4.1
+,3.1.4,[N/A],STAGE 3.1.4: COORDINATE AND SECURE INSPECTION DATE WITH SFA,3.1.4.1
+,3.1.4.1,Managing Director,Send OTP.,3.1.4.2
+,3.1.4.2,Admin,Receive OTP.,3.1.4.3
+,3.1.4.3,Admin,Check available inspection dates in the Portal.,3.1.4.4
+,3.1.4.4,Admin,Check SE's availability and get SE to check on Client's respective availability.,3.1.4.5
+,3.1.4.5,Sales Executive,Check with Client on availability.,3.1.4.6
+,3.1.4.6,Client,Inform SE on availability.,3.1.4.7
+,3.1.4.7,Sales Executive,Inform Admin on both SE and Client's availability.,3.1.4.8
+,3.1.4.8,Admin,Book inspection date based on MD's and Client's respective availability.,3.1.4.9
+,3.1.4.9,Singapore Food Agency,Issues confirmation on inspection date.,3.1.5.1
+,3.1.5,[N/A],STAGE 3.1.5: UPDATE CLIENT ON INSPECTION DATE AND TIMING,3.1.5.1
+,3.1.5.1,Sales Executive,Receives confirmation on inspection date.,3.1.5.2
+,3.1.5.2,Sales Executive,Informs client on confirmation of inspection date.,3.1.5.3
+,3.1.5.3,Singapore Food Agency,Contacts SE to confirm time of inspection (1 day before inspection date).,3.1.5.4
+,3.1.5.4,Sales Executive,Informs client on confirmation of inspection timing.,3.1.6.1
+,3.1.6,[N/A],STAGE 3.1.6: FACILITATE SITE INSPECTION,3.1.6.1
+,3.1.6.1,Sales Executive,Facilitate Site Inspection via Zoom (on Inspection Day).,3.1.7.1
+,3.1.7,[N/A],STAGE 3.1.7: RECEIVE NOTICE ON RECTIFICATIONS SOUGHT,3.1.7.1
+,3.1.7.1,Singapore Food Agency,Is rectification required by SFA?,"3.1.7.2, 3.1.9.1"
+,3.1.7.2,Singapore Food Agency,"If yes, Issue rectifications needed via email.",3.1.8.1
+,3.1.8,[N/A],STAGE 3.1.8: COORDINATE & RESPOND TO RECTIFICATIONS SOUGHT,3.1.8.1
+,3.1.8.1,Sales Executive,Receive SFA's notification.,3.1.8.2
+,3.1.8.2,Sales Executive,Liaise with client/contractor on rectifications needed.,3.1.8.3
+,3.1.8.3,Client,Carry out rectification works.,3.1.8.4
+,3.1.8.4,Client,Send photos of rectification & documents to SE.,3.1.8.5
+,3.1.8.5,Sales Executive,Review photos of rectification for sufficiency.,3.1.8.6
+,3.1.8.6,Sales Executive,Are the photos & Docs sufficient to meet SFA's requirement?,"3.1.8.7, 3.1.8.14"
+,3.1.8.7,Sales Executive,"If yes, Send photos & docs to Admin.",3.1.8.8
+,3.1.8.8,Admin,Receive photos of rectification & documents.,3.1.8.9
+,3.1.8.9,Admin,"Prepare PPT slide/deck (Information to include in deck: Layout plan, Photos, Address, Application No).",3.1.8.10
+,3.1.8.10,Admin,Reply SFA with PPT slide/deck.,3.1.8.11
+,3.1.8.11,Singapore Food Agency,Receive PPT slide/deck.,3.1.8.12
+,3.1.8.12,Singapore Food Agency,Is the PPT slide/deck sufficient to meet SFA's requirement?,"3.1.9.1, 3.1.8.13"
+,3.1.8.13,Singapore Food Agency,"If no, Go to PG 4 of 8.",3.1.8.1
+,3.1.8.14,Sales Executive,"If no, Go onsite to take photos of rectification / Request client to send additonal photos.",3.1.8.3
+,3.1.9,[N/A],STAGE 3.1.9: RECEIVE APPROVAL BY AUTHORITIES AND GENERATE BALANCE INVOICE,3.1.9.1
+,3.1.9.1,Singapore Food Agency,Issue Approval.,3.1.9.2
+,3.1.9.2,Admin,Receive Approval.,3.1.9.3
+,3.1.9.3,Admin,Create Balance Invoice.,3.1.9.4
+,3.1.9.4,Admin,Send to Client.,3.1.9.5
+,3.1.9.5,Client,Receive Balance Invoice.,3.1.9.6
+,3.1.9.6,Sales Executive,Has client paid Balance Invoice?,"3.1.10.1, 3.1.9.7"
+,3.1.9.7,Sales Executive,"If no, Follow up on payment.",3.1.9.6
+,3.1.10,[N/A],STAGE 3.1.10: ATTEND TO PAYMENT TO SFA (AFTER RECEIPT OF CLIENT'S BALANCE PAYMENT),3.1.10.1
+,3.1.10.1,Admin,Log onto Go Business SG (https://www.gobusiness.gov.sg/#).,3.1.10.2
+,3.1.10.2,Admin,Request OTP from MD.,3.1.10.3
+,3.1.10.3,Managing Director,Send OTP.,3.1.10.4
+,3.1.10.4,Admin,Receive OTP.,3.1.10.5
+,3.1.10.5,Admin,Make Payment.,3.1.11.1
+,3.1.11,[N/A],STAGE 3.1.11: NOTIFY CLIENT OF APPROVAL,3.1.11.1
+,3.1.11.1,Singapore Food Agency,Issues email approval to MD.,3.1.11.2
+,3.1.11.2,Admin,Screenshots approval email.,3.1.11.3
+,3.1.11.3,Admin,Notifies client on SFA approval.,3.1.11.4
+,3.1.11.4,Client,Receives notification of SFA Approval.,3.1.12.1
+,3.1.12,[N/A],STAGE 3.1.12: FRAMES LICENCE FOR CLIENT,3.1.12.1
+,3.1.12.1,Admin,Prints out licence.,3.1.12.2
+,3.1.12.2,Admin,Frames licence up in Dyson's frames.,3.1.12.3
+,3.1.12.3,Admin,Passes framed licence to MD.,3.1.12.4
+,3.1.12.4,Sales Executive,Pass framed licence to Client & take photos & get Client's consent to use photos for publicity (PDPA).,3.1.12.5
+,3.1.12.5,Client,Receives licence.,END
+3.2 Post-Submission to Project Completion - HDB,3.2.1,[N/A],STAGE 3.2.1: RECEIVE REGULATORY NOTIFICATION,3.2.1.1
+,3.2.1.1,HDB,Issues Notification for rectification / further clarification.,3.2.1.2
+,3.2.1.2,Admin,Receives Notification (To-Be: Creation of General Email Account for receipt of Notifications).,3.2.2.1
+,3.2.2,[N/A],STAGE 3.2.2: COORDINATE & RESPOND TO QUERIES/ RECTIFICATIONS,3.2.2.1
+,3.2.2.1,Admin,Respond to HDB's queries & rectifications (email / HDB feedback link).,3.2.2.2
+,3.2.2.2,Admin,Print submissions & attachments.,3.2.2.3
+,3.2.2.3,Admin,File submissions.,3.2.2.4
+,3.2.2.4,HDB,Is response / rectifications acceptable?,"3.2.3.1, 3.2.1.2"
+,3.2.3,[N/A],STAGE 3.2.3: RECEIVE ACCEPTANCE BY AUTHORITIES,3.2.3.1
+,3.2.3.1,HDB,Issues Approval (general email).,3.2.3.2
+,3.2.3.2,Admin,Receives Approval.,3.2.4.1
+,3.2.4,[N/A],STAGE 3.2.4: GENERATE BALANCE INVOICE,3.2.4.1
+,3.2.4.1,Admin,Create Balance Invoice.,3.2.4.2
+,3.2.4.2,Admin,Send to Client.,3.2.4.3
+,3.2.4.3,Client,Receive Balance Invoice.,3.2.4.4
+,3.2.4.4,Sales Executive,Has client paid Balance Invoice?,"3.2.5.1, 3.2.4.5"
+,3.2.4.5,Sales Executive,"If no, Follow up on payment.",3.2.4.4
+,3.2.5,[N/A],STAGE 3.2.5: NOTIFY CLIENT OF APPROVAL,3.2.5.1
+,3.2.5.1,Sales Executive,Sends Notice of Approval to client.,3.2.5.2
+,3.2.5.2,Client,Receives Notice of Approval.,END
+3.3 Post-Submission to Project Completion - URA,3.3.1,[N/A],STAGE 3.3.1: RECEIVE REGULATORY NOTIFICATION,3.3.1.1
+,3.3.1.1,Urban Redevelopment Authority,Issues comments & rectifications required for compliance.,3.3.1.2
+,3.3.1.2,Urban Redevelopment Authority,Changes sought:,"BUSINESS PLAN: 3.3.2.1, FLOOR PLAN: 3.3.2.8"
+,3.3.2,[N/A],STAGE 3.3.2: COORDINATE ON RESPONSE TO REGULATORY NOTIFICATION,"3.3.2.1, 3.3.2.8"
+,3.3.2.1,Sales Executive,Request required docs from client to address URA's comments.,3.3.2.2
+,3.3.2.2,Client,Sends docs to SE.,3.3.2.3
+,3.3.2.3,Sales Executive,Receives client's docs / instructions.,3.3.2.4
+,3.3.2.4,Sales Executive,Edit Business Plan.,3.3.2.5
+,3.3.2.5,Sales Executive,Send edited Business Plan to MD for final review.,3.3.2.6
+,3.3.2.6,Managing Director,Approves Business Plan.,3.3.2.7
+,3.3.2.7,Sales Executive,Send approved Business Plan to Admin for submission.,3.3.3.1
+,3.3.2.8,Project Manager,Revise floor plan as required by URA.,3.3.2.9
+,3.3.2.9,Project Manager,Send revised floor plan to client for approval.,3.3.2.10
+,3.3.2.10,Client,Are revision accepted by client?,"YES: 3.3.2.13, NO: 3.3.2.11"
+,3.3.2.11,Client,"If no, Gives comments.",3.3.2.12
+,3.3.2.12,Project Manager,Takes in Comments.,3.3.2.8
+,3.3.2.13,Client,"If yes, Gives approval.",3.3.2.14
+,3.3.2.14,Project Manager,Sends approved floor plan to Admin.,3.3.3.1
+,3.3.3,[N/A],STAGE 3.3.3: RESPOND TO REGULATORY NOTIFICATION,3.3.3.1
+,3.3.3.1,Admin,Consolidates all documents for response to URA.,3.3.3.2
+,3.3.3.2,Admin,"Resubmit to URA (via portal or email, depending on officer).","Via Portal: 3.3.3.4, Via Email: 3.3.3.3"
+,3.3.3.3,Admin,Admin Send documents via email.,3.3.4.1
+,3.3.3.4,Admin,Log onto Go Business SG (https://www.gobusiness.gov.sg/#).,3.3.3.5
+,3.3.3.5,Admin,Request OTP from MD (2 OTPs needed).,3.3.3.6
+,3.3.3.6,Managing Director,Send OTP.,3.3.3.7
+,3.3.3.7,Admin,Receive OTP.,3.3.3.8
+,3.3.3.8,Admin,Prepare Draft Submission.,3.3.3.9
+,3.3.3.9,Admin,Verify details of Draft Submission.,3.3.3.10
+,3.3.3.10,Admin,Print Summary & attachments.,3.3.3.11
+,3.3.3.11,Admin,Submit on Go Business SG.,3.3.3.12
+,3.3.3.12,Admin,Print acknowledgment of submission.,3.3.3.13
+,3.3.3.13,Admin,File printed Summary & attachments.,3.3.4.1
+,3.3.4,[N/A],STAGE 3.3.4: COORDINATION BETWEEN URA & SLA ON LAND BETTERMENT CHARGES,3.3.4.1
+,3.3.4.1,Urban Redevelopment Authority,Receives resubmission.,3.3.4.2
+,3.3.4.2,Urban Redevelopment Authority,"Conducts further checks with SLA on Land Betterment Charge, if any.",3.3.4.3
+,3.3.4.3,Singapore Land Authority,Receives URA's enquiry on Land Betterment Charges.,3.3.4.4
+,3.3.4.4,Singapore Land Authority,Informs URA if Land Betterment Charges are applicable or not.,"if LBC is required: 3.3.5.1, if LBC is NOT required: 3.3.7.1"
+,3.3.5,[N/A],STAGE 3.3.5: COORDINATION WITH AUTHORITIES ON URA'S PROVISIONAL PERMISSION & COORDINATE WITH CLIENT ON PAYMENT,3.3.5.1
+,3.3.5.1,Urban Redevelopment Authority,Issues Provisional Permission & contact of Officer at SLA.,3.3.5.2
+,3.3.5.2,Admin,Emails SLA (attach URA's Provisional Permission).,3.3.5.3
+,3.3.5.3,Singapore Land Authority,Receive URA's Provisional Permission from Applicant (via Admin).,3.3.5.4
+,3.3.5.4,Singapore Land Authority,Computes Land Betterment Charges.,3.3.5.5
+,3.3.5.5,Singapore Land Authority,Issues Form to Dyson for applicant's completion.,3.3.5.6
+,3.3.5.6,Admin,Receives draft Form from SLA.,3.3.5.7
+,3.3.5.7,Admin,Fills up draft From and send to SE.,3.3.5.8
+,3.3.5.8,Sales Executive,Sends to Client for approval & execution.,3.3.5.9
+,3.3.5.9,Client,Receives draft Form.,3.3.5.10
+,3.3.5.10,Client,Signs Form.,3.3.5.11
+,3.3.5.11,Client,Send SE signed Form.,3.3.5.12
+,3.3.5.12,Sales Executive,Received signed Form.,3.3.5.13
+,3.3.5.13,Sales Executive,Send signed Form to Admin.,3.3.5.14
+,3.3.5.14,Admin,Emails SLA with signed Form.,3.3.5.15
+,3.3.5.15,Singapore Land Authority,Issues Payment Instructions.,3.3.5.16
+,3.3.5.16,Admin,Receives Payment Instructions.,3.3.5.17
+,3.3.5.17,Admin,Instructs client on Payment Instructions.,3.3.5.18
+,3.3.5.18,Client,Receives Payment Instructions.,3.3.5.19
+,3.3.5.19,Client,Makes Payment to SLA.,3.3.5.20
+,3.3.5.20,Client,Sends screenshot of payment to Dyson.,3.3.5.21
+,3.3.5.21,Sales Executive,Receives screenshot of payment.,3.3.5.22
+,3.3.5.22,Sales Executive,Sends screenshot of payment to Admin.,3.3.5.23
+,3.3.5.23,Admin,Sends screenshot of payment to SLA.,3.3.5.24
+,3.3.5.24,Singapore Land Authority,Receives screenshot of payment.,3.3.6.1
+,3.3.6,[N/A],STAGE 3.3.6: COORDINATION WITH AUTHORITIES ON SLA'S OFFICIAL PAYMENT RECEIPT,3.3.6.1
+,3.3.6.1,Singapore Land Authority,Issues Official Payment Receipt.,3.3.6.2
+,3.3.6.2,Admin,Receives Official Payment Receipt from SLA.,3.3.6.3
+,3.3.6.3,Admin,Emails URA with SLA's Official Payment Receipt attached.,3.3.6.4
+,3.3.6.4,Urban Redevelopment Authority,Receives SLA's Official Payment Receipt from Dyson.,3.3.7.1
+,3.3.7,[N/A],STAGE 3.3.7: RECEIVE ACCEPTANCE BY AUTHORITIES,3.3.7.1
+,3.3.7.1,Urban Redevelopment Authority,Issues Written Permission.,3.3.7.2
+,3.3.7.2,Admin,Receives Written Permission from URA.,3.3.7.3
+,3.3.7.3,Admin,Compile and send copy of Written Permission to SE.,3.3.8.1
+,3.3.8,[N/A],STAGE 3.3.8: NOTIFY CLIENT OF APPROVAL,3.3.8.1
+,3.3.8.1,Sales Executive,Receives Written Permission from Admin.,3.3.8.2
+,3.3.8.2,Sales Executive,Send Client WP.,3.3.8.3
+,3.3.8.3,Client,Receive Written Permission.,END
+3.4 Post-Submission to Project Completion - SCDF,3.4.1,[N/A],STAGE 3.4.1: RECEIVE REGULATORY NOTIFICATION,3.4.1.1
+,3.4.1.1,Singapore Civil Defence Force,Issues Acknowledgement to make payment.,3.4.1.2
+,3.4.1.2,Admin,Receives Notification.,3.4.2.1
+,3.4.2,[N/A],STAGE 3.4.2: RECEIVE NOTIFICATION OF PAYMENT BY AUTHORITIES AND ATTEND TO PAYMENT,3.4.2.1
+,3.4.2.1,Admin,Commence payment process.,3.4.2.2
+,3.4.2.2,Admin,Request Bank's OTP from MD.,3.4.2.3
+,3.4.2.3,Managing Director,Send OTP.,3.4.2.4
+,3.4.2.4,Admin,Complete payment.,3.4.2.5
+,3.4.2.5,Admin,Print payment receipt.,3.4.2.6
+,3.4.2.6,Admin,File payment receipt.,3.4.3.1
+,3.4.3,[N/A],STAGE 3.4.3(A).1: COORDINATE ON RESPONSE TO AUDIT CHECK FINDINGS,3.4.3.1
+,3.4.3.1,Singapore Civil Defence Force,Is an Audit Check required?,"YES: 3.4.3.2, NO: 3.4.4.1"
+,3.4.3.2,Singapore Civil Defence Force,Issue Notification for Audit.,3.4.3.3
+,3.4.3.3,Client,Receives Audit Check findings.,3.4.3.4
+,3.4.3.4,Client,Is the Audit Check a plan / site check?,"PLAN CHECK: 3.4.3.5, SITE CHECK: 3.4.3.7"
+,3.4.3.5,Sales Executive,Sends Audit Check findings to PM.,3.4.3.6
+,3.4.3.6,Project Manager,Communicates issues raised by Audit Check findings to Vetter & RI.,3.4.3.12
+,3.4.3.7,Sales Executive,Inform client.,3.4.3.8
+,3.4.3.8,Sales Executive,Coordinate with client on a pre-audit review of site for compliance.,3.4.3.9
+,3.4.3.9,Sales Executive,Inform client of rectifications to be carried out before Site Audit.,3.4.3.10
+,3.4.3.10,Client,Rectify.,3.4.3.11
+,3.4.3.11,Sales Executive,Conduct audit review of site.,3.4.3.12
+,3.4.3.12,Project Manager,Drafts formal response on behalf of QP.,3.4.3.13
+,3.4.3.13,Project Manager,Sends draft letter to QP for execution.,3.4.3.14
+,3.4.3.14,Civil Engineer,Receives draft letter.,3.4.3.15
+,3.4.3.15,Civil Engineer,Endorses letter.,3.4.3.16
+,3.4.3.16,Civil Engineer,Send letter to PM.,3.4.3.17
+,3.4.3.17,Project Manager,Receives endorsed letter.,3.4.3.18
+,3.4.3.18,Project Manager,Email endorsed letter to SCDF officer.,3.4.3.19
+,3.4.3.19,Singapore Civil Defence Force,Receives endorsed letter.,3.4.3.20
+,3.4.3.20,Singapore Civil Defence Force,Are the Audit Check findings addressed?,"YES: 3.4.4.1, NO: 3.4.3.21"
+,3.4.3.21,Singapore Civil Defence Force,Issues further notification for amendment.,3.4.3.3
+,3.4.4,[N/A],STAGE 3.4.4: NOTIFY CLIENT OF APPROVAL (PRE-RI INSPECTION),3.4.4.1
+,3.4.4.1,Singapore Civil Defence Force,Issues Notice of Approval.,3.4.4.2
+,3.4.4.2,Sales Executive,Sends Notice of Approval to client.,3.4.4.3
+,3.4.4.3,Client,Receives Notice of Approval.,3.4.5.1
+,3.4.5,[N/A],STAGE 3.4.5: RI INSPECTION,3.4.5.1
+,3.4.5.1,Sales Executive,Visit site to check for compliance.,3.4.5.2
+,3.4.5.2,Sales Executive,Inform PM of availability for RI Inspection.,3.4.5.3
+,3.4.5.3,Project Manager,Coordinates with RI on availability for inspection.,3.4.5.4
+,3.4.5.4,Vetter / Registered Inspector,Informs PM on availability.,3.4.5.5
+,3.4.5.5,Project Manager,Confirms RI inspection date via email and WA to RI and SE.,3.4.5.6
+,3.4.5.6,Sales Executive,Conducts RI inspection with RI.,3.4.5.7
+,3.4.5.7,Vetter / Registered Inspector,Has RI issued further comments?,"YES: 3.4.5.8, NO: 3.4.5.14"
+,3.4.5.8,Sales Executive,Work with contractor/client to carry out rectification required to address RI's comments.,3.4.5.9
+,3.4.5.9,Sales Executive,"Document rectification works (photos, documents/ certificates).",3.4.5.10
+,3.4.5.10,Sales Executive,Send consolidated rectification work to PM.,3.4.5.11
+,3.4.5.11,Project Manager,Receives and vet consolidated documentation of rectification.,3.4.5.12
+,3.4.5.12,Project Manager,Will documentation comply with RI's comments?,"YES: 3.4.5.13, NO: 3.4.5.8"
+,3.4.5.13,Project Manager,Submits to RI.,3.4.5.14
+,3.4.5.14,Vetter / Registered Inspector,Sends RI Report.,3.4.5.15
+,3.4.5.15,Sales Executive,HAs RI sent RI report?,"YES: 3.4.5.17, NO: 3.4.5.16"
+,3.4.5.16,Sales Executive,Follows up with RI on report.,3.4.5.15
+,3.4.5.17,Sales Executive,Receives RI Report.,"3.4.6.1, 3.4.7.1"
+,3.4.6,[N/A],STAGE 3.4.6: SUBMISSION ON CORENET,3.4.6.1
+,3.4.6.1,Sales Executive,Sends RI Report to PM.,3.4.6.2
+,3.4.6.2,Project Manager,Receives RI Report.,3.4.6.3
+,3.4.6.3,Admin,Log onto Corenet.,3.4.6.4
+,3.4.6.4,Admin,Request OTP from CE and ME.,3.4.6.5
+,3.4.6.5,Mechanical Engineer & Civil Engineer,Send OTP.,3.4.6.6
+,3.4.6.6,Admin,Receive OTP.,3.4.6.7
+,3.4.6.7,Admin,Prepare Draft Submission.,3.4.6.8
+,3.4.6.8,Admin,Verify details of Draft Submission.,3.4.6.9
+,3.4.6.9,Admin,Screenshot Submission & attachments.,3.4.6.10
+,3.4.6.10,Admin,Submit on Corenet.,3.4.6.11
+,3.4.6.11,Admin,Print acknowledgment of submission.,3.4.6.12
+,3.4.6.12,Admin,File screenshot of Summary & attachments.,3.4.8.1
+,3.4.7,[N/A],STAGE 3.4.7: GENERATE BALANCE INVOICE,3.4.7.1
+,3.4.7.1,Admin,Create Balance Invoice.,3.4.7.2
+,3.4.7.2,Admin,Send to Client.,3.4.7.3
+,3.4.7.3,Client,Receive Balance Invoice.,3.4.7.4
+,3.4.7.4,Sales Executive,Has client paid Balance Invoice?,"YES: 3.4.8.2, NO: 3.4.7.5"
+,3.4.7.5,Sales Executive,Follow up on payment.,3.4.7.4
+,3.4.8,[N/A],STAGE 3.4.8: NOTIFY CLIENT OF FIRE SAFETY CERT ISSUANCE,3.4.8.1
+,3.4.8.1,Singapore Civil Defence Force,Issues Notice of Fire Safety Cert.,3.4.8.2
+,3.4.8.2,Sales Executive,Sends Notice of Fire Safety Cert to client.,3.4.8.3
+,3.4.8.3,Client,Receives Notice of Fire Safety Cert.,END
+3.5 Post-Submission to Project Completion - SPF,3.5.1,[N/A],STAGE 3.5.1: RECEIVE REGULATORY NOTIFICATION,3.5.1.1
+,3.5.1.1,Singapore Police Force,SPF issues Notification to acknowledge receipt and inform that application is in process/rejected.,3.5.1.2
+,3.5.1.2,Singapore Police Force,Is further clarification needed?,"YES: 3.5.1.3, NO: 3.5.4.1"
+,3.5.1.3,Singapore Police Force,"If yes, SPF Issues Notification for further clarification.",3.5.1.4
+,3.5.1.4,Admin,Receives Notification for clarification.,3.5.2.1
+,3.5.2,[N/A],STAGE 3.5.2: COORDINATE ON RECTIFICATIONS,3.5.2.1
+,3.5.2.1,Admin,Requests information/ documentation/ clarification from client.,3.5.2.2
+,3.5.2.2,Client,Sends SE information/ documentation/ clarification.,3.5.2.3
+,3.5.2.3,Sales Executive,Receives information/ documentation/ clarification from client.,3.5.2.4
+,3.5.2.4,Client,Has Client given the necessary documents?,"YES: 3.5.2.6, NO: 3.5.2.5"
+,3.5.2.5,Sales Executive,Follow up with Client on list of documents.,3.5.2.4
+,3.5.2.6,Client,Forwards information/ documentation/ clarification to Admin.,3.5.3.1
+,3.5.3,[N/A],STAGE 3.5.3: RESPOND TO REGULATORY NOTIFICATION,3.5.3.1
+,3.5.3.1,Admin,Submits via email to SPF.,3.5.4.1
+,3.5.4,[N/A],STAGE 3.5.4: RECEIVE ACCEPTANCE BY AUTHORITIES,3.5.4.1
+,3.5.4.1,Client,Receives approval & payment instructions from SPF.,3.5.4.2
+,3.5.4.2,Client,Forwards email approval & payment instructions to Admin.,3.5.4.3
+,3.5.4.3,Admin,Receives forwarded SPF email approval & payment instructions.,3.5.5.1
+,3.5.5,[N/A],STAGE 3.5.5: MAKE PAYMENT,3.5.5.1
+,3.5.5.1,Admin,Log onto Go Business SG.,3.5.5.2
+,3.5.5.2,Admin,Request OTP from MD.,3.5.5.3
+,3.5.5.3,Managing Director,Send OTP.,3.5.5.4
+,3.5.5.4,Admin,Receive OTP.,3.5.5.5
+,3.5.5.5,Admin,Make Payment.,3.5.5.6
+,3.5.5.6,Singapore Police Force,Issues email approval.,3.5.5.7
+,3.5.5.7,Admin,Screenshots approval email.,3.5.5.8
+,3.5.5.8,Admin,Notifies client on SPF approval.,3.5.6.1
+,3.5.6,[N/A],STAGE 3.5.6: OBTAIN HARDCOPY LICENCE FROM SPF,3.5.6.1
+,3.5.6.1,Client,Did client receive hardcopy licence from SPF?,"YES: 3.5.6.2, NO: 3.5.6.3"
+,3.5.6.2,Client,"If yes, Receives hardcopy licence from SPF.",3.5.7.1
+,3.5.6.3,Client,"If no, Makes online appointment to go Cantoment branch to pick up hardcopy licence.",3.5.6.4
+,3.5.6.4,Client,Goes to Cantoment branch with email confirmation to retrieve hardcopy licence.,3.5.6.5
+,3.5.6.5,Client,Pass hardcopy licence to Admin for framing.,3.5.7.4
+,3.5.7,[N/A],STAGE 3.5.7: FRAMES LICENCE FOR CLIENT,"3.5.7.1, 3.5.7.4"
+,3.5.7.1,Sales Executive,Visits site with empty frame.,3.5.7.2
+,3.5.7.2,Sales Executive,Frames licence up in Dyson's frames.,3.5.7.3
+,3.5.7.3,Sales Executive,Take photo of licence for record & photo with Client for marketing.,3.5.7.7
+,3.5.7.4,Admin,Frames licence up in Dyson's frames.,3.5.7.5
+,3.5.7.5,Admin,Passes framed licence to MD.,3.5.7.6
+,3.5.7.6,Managing Director,Pass framed licence to Client.,3.5.7.7
+,3.5.7.7,Client,Receives licence.,END
+3.6 Post-Submission to Project Completion - NEA,3.6.1,[N/A],STAGE 3.6.1: RECEIVE REGULATORY NOTIFICATION,3.6.1.1
+,3.6.1.1,National Environment Agency,NEA issues Notification for further clarification.,3.6.1.2
+,3.6.1.2,Admin,Receives Notification.,3.6.2.1
+,3.6.2,[N/A],STAGE 3.6.2: COORDINATE ON RESPONSE TO QUERIES / RECTIFICATIONS,3.6.2.1
+,3.6.2.1,Sales Executive,Requests information/ documentation/ clarification from client.,3.6.2.2
+,3.6.2.2,Client,Sends SE information/ documentation/ clarification.,3.6.2.3
+,3.6.2.3,Sales Executive,Receives information/ documentation/ clarification from client.,3.6.2.4
+,3.6.2.4,Sales Executive,Forwards information/ documentation/ clarification from client.,3.6.3.1
+,3.6.3,[N/A],STAGE 3.6.3: RESPOND TO REGULATORY NOTIFICATION,3.6.3.1
+,3.6.3.1,Admin,Log onto NEA.,3.6.3.2
+,3.6.3.2,Admin,Request OTP from MD.,3.6.3.3
+,3.6.3.3,Managing Director,Send OTP.,3.6.3.4
+,3.6.3.4,Admin,Receive OTP.,3.6.3.5
+,3.6.3.5,Admin,Prepare Draft Submission (& attach documents).,3.6.3.6
+,3.6.3.6,Admin,Verify details of Draft Submission.,3.6.3.7
+,3.6.3.7,Admin,Print/ Screenshot Summary & attachments.,3.6.3.8
+,3.6.3.8,Admin,Submit on NEA.,3.6.3.9
+,3.6.3.9,Admin,Print acknowledgment of submission.,3.6.3.10
+,3.6.3.10,Admin,File printed Summary & attachments & acknowledgement.,3.6.3.11
+,3.6.3.11,National Environment Agency,Further rectifications needed by NEA?,"YES: 3.6.1.1, NO: 3.6.4.1"
+,3.6.4,[N/A],STAGE 3.6.4: RECEIVE ACCEPTANCE BY AUTHORITIES,3.6.4.1
+,3.6.4.1,National Environment Agency,Sends Approval.,3.6.4.2
+,3.6.4.2,Sales Executive,Receives email notification on NEA approval.,3.6.4.3
+,3.6.4.3,Sales Executive,Sends email approval to Admin.,3.6.6.1
+,3.6.5,[N/A],STAGE 3.6.5: RESPOND TO REJECTION,3.6.5.1
+,3.6.5.1,National Environment Agency,Issues Notice.,3.6.5.2
+,3.6.5.2,National Environment Agency,"Is the Notice an Approval or a Rejection? (If further advice is needed, to consult MD and/or Admin)","APPROVAL: 3.6.6.1, REJECTION: 3.6.5.3"
+,3.6.5.3,Sales Executive,Draft Appeal Letter.,3.6.5.4
+,3.6.5.4,Sales Executive,Send Appeal Letter to Admin.,3.6.5.5
+,3.6.5.5,Admin,Submit Appeal via portal.,3.6.5.6
+,3.6.5.6,National Environment Agency,Receive Appeal.,3.6.5.7
+,3.6.5.7,National Environment Agency,Is Appeal successful or further clarification required?,"APPROVED: 3.6.5.8, NOT APPROVED: 3.6.5.9"
+,3.6.5.8,National Environment Agency,Issues Notice of Approval.,3.6.6.1
+,3.6.5.9,Sales Executive,Receives request for clarification.,3.6.5.10
+,3.6.5.10,Sales Executive,Seek clarification from client.,3.6.5.11
+,3.6.5.11,Client,Provides clarification.,3.6.5.5
+,3.6.6,[N/A],STAGE 3.6.6: NOTIFY CLIENT OF APPROVAL,3.6.6.1
+,3.6.6.1,Sales Executive,Sends Notice of Approval to client.,3.6.6.2
+,3.6.6.2,Client,Receives Notice of Approval.,END
+3.7 Post-Submission to Project Completion - HSA,3.7.1,[N/A],STAGE 3.7.1: RECEIVE REGULATORY NOTIFICATION,3.7.1.1
+,3.7.1.1,Health Sciences Authority,HSA issues Notification for further clarification.,3.7.1.2
+,3.7.1.2,Admin,Receives Notification.,"3.7.2.1, 3.7.3.1"
+,3.7.2,[N/A],STAGE 3.7.2: COORDINATE ON RECTIFICATIONS,3.7.2.1
+,3.7.2.1,Client,Was Photos of Premises given earlier?,"YES: 3.7.4.1, NO: 3.7.2.2"
+,3.7.2.2,Client,Visits site to take photo of Shop Front and tobacco storage area.,3.7.2.3
+,3.7.2.3,Client,Sends site photos to internal group chat.,3.7.4.1
+,3.7.3,[N/A],STAGE 3.7.3: COORDINATE ON HSA QUIZ REQUIREMENTS,3.7.3.1
+,3.7.3.1,Sales Executive,Informs Client of Quiz Requirement (For submission: Quiz shall be completed by Director for submission. For audit: Quiz to be completed by all staff. Client to be informed that: all new hires have to complete HSA Quiz. Quiz Results should be saved for future audit purposes).,3.7.3.2
+,3.7.3.2,Client,Completes Quiz (by Director).,3.7.3.3
+,3.7.3.3,Client,Forward Quiz Results to SE.,3.7.3.4
+,3.7.3.4,Sales Executive,Receives Quiz Results.,3.7.3.5
+,3.7.3.5,Sales Executive,Sends Quiz Results to internal group chat.,3.7.4.1
+,3.7.4,[N/A],STAGE 3.7.4: RESPOND TO REGULATORY NOTIFICATION,3.7.4.1
+,3.7.4.1,Admin,Reply to HSA with requested documents.,3.7.4.2
+,3.7.4.2,Health Sciences Authority,Receives documents.,3.7.4.3
+,3.7.4.3,Health Sciences Authority,Further rectifications needed by HSA?,"YES: 3.7.1.1, NO: 3.7.4.4"
+,3.7.4.4,Health Sciences Authority,Sends Approval.,3.7.5.1
+,3.7.5,[N/A],STAGE 3.7.5: RECEIVE ACCEPTANCE BY AUTHORITIES,3.7.5.1
+,3.7.5.1,Sales Executive,Receives email notification on HSA approval.,3.7.5.2
+,3.7.5.2,Sales Executive,Sends email approval to Admin.,3.7.5.3
+,3.7.5.3,Admin,Receives email approval.,3.7.6.1
+,3.7.6,[N/A],STAGE 3.7.6: PAYMENT TO HSA FOR LICENCE ISSUANCE,3.7.6.1
+,3.7.6.1,Admin,Log onto Go Business.,3.7.6.2
+,3.7.6.2,Admin,Request OTP from MD.,3.7.6.3
+,3.7.6.3,Managing Director,Send OTP.,3.7.6.4
+,3.7.6.4,Admin,Receive OTP.,3.7.6.5
+,3.7.6.5,Admin,Make Payment.,3.7.6.6
+,3.7.6.6,Admin,Print receipt of payment.,3.7.6.7
+,3.7.6.7,Admin,File printed receipt of payment.,3.7.6.8
+,3.7.6.8,Admin,AFTER 2 WORKING DAYS.,3.7.6.9
+,3.7.6.9,Admin,Log onto Go Business.,3.7.6.10
+,3.7.6.10,Admin,Request OTP from MD.,3.7.6.11
+,3.7.6.11,Managing Director,Send OTP.,3.7.6.12
+,3.7.6.12,Admin,Receive OTP.,3.7.6.13
+,3.7.6.13,Admin,Has licence been issued post-payment?,"YES: 3.7.7.1, NO: Wait 1 working day and retry (3.7.6.9)"
+,3.7.7,[N/A],STAGE 3.7.7: FRAMES LICENCE FOR CLIENT,3.7.7.1
+,3.7.7.1,Admin,Prints out licence.,3.7.7.2
+,3.7.7.2,Admin,Frames licence up in Dyson's frames.,3.7.7.3
+,3.7.7.3,Admin,Passes framed licence to SE.,3.7.7.4
+,3.7.7.4,Sales Executive,Take photo of licence for record & photo with Client for marketing.,3.7.7.5
+,3.7.7.5,Sales Executive,Pass framed licence to Client.,3.7.7.6
+,3.7.7.6,Client,Receives licence.,END
+3.8 Post-Submission to Project Completion - JTC,3.8.1,[N/A],STAGE 3.8.1: RECEIVE REGULATORY NOTIFICATION,3.8.1.1
+,3.8.1.1,JTC Corporation,Issues comments & rectifications required for compliance.,3.8.1.2
+,3.8.1.2,Sales Executive,Receives Notification.,3.8.1.3
+,3.8.1.3,Sales Executive,Sends PM.,3.8.2.1
+,3.8.2,[N/A],STAGE 3.8.2: COORDINATE ON RESPONSE TO REGULATORY NOTIFICATION,3.8.2.1
+,3.8.2.1,Project Manager,"Revise floor plan as required by URA (Types of JTC's comments: Sometimes, GFA as submitted does not tally with the approved Main Use of premises. We will need to revise 60:40 ratio to such ratio as required to address JTC's comments. If wall hacking is required, will need to liaise with Civil PE - PM to be accountable. If there is a concern of kitchen exhaust system (too large/too small - design fault, or not sufficient power to extract, or sound issues, or volume issues (CMH), then we will need to instruct freelancer (M&E engineer) to look into JTC's comments - PM to be accountable).",3.8.2.2
+,3.8.2.2,Project Manager,Instructs Freelancers on revisions.,3.8.2.3
+,3.8.2.3,Freelancers,Receives instructions.,3.8.2.4
+,3.8.2.4,Freelancers,Edit floorplan.,3.8.2.5
+,3.8.2.5,Freelancers,Send PM.,3.8.2.6
+,3.8.2.6,Project Manager,Receives revised Floorplan.,3.8.2.7
+,3.8.2.7,Project Manager,Send to SE to forward to client for approval.,3.8.2.8
+,3.8.2.8,Sales Executive,Reviews revised Floorplan.,3.8.2.9
+,3.8.2.9,Sales Executive,Send revised floor plan to client for approval.,3.8.2.10
+,3.8.2.10,Client,Are revision accepted by client?,"YES: 3.8.2.11, NO: 3.8.2.12"
+,3.8.2.11,Client,Gives approval.,3.8.2.14
+,3.8.2.12,Client,Gives comments.,3.8.2.13
+,3.8.2.13,Sales Executive,Takes in Comments.,3.8.2.1
+,3.8.2.14,Sales Executive,Informs PM of Approval.,3.8.3.1
+,3.8.3,[N/A],STAGE 3.8.3: RESPOND TO REGULATORY NOTIFICATION,3.8.3.1
+,3.8.3.1,Sales Executive,Sends such necessary information to PM.,3.8.3.2
+,3.8.3.2,Project Manager,"Consolidate all documents for response to JTC (Documents required for submission: 1. Endorsed JTC Form 2. Endorsed Floorplan 3. Such information from SE to respond to JTC's notification, if needed).",3.8.3.3
+,3.8.3.3,Admin,Log onto Corenet (Submission is made on ESPro application: https://www.corenet.gov.sg/corenet/eSS/SoftwareDownloads/index.htm).,3.8.3.4
+,3.8.3.4,Admin,Request OTP from MD.,3.8.3.5
+,3.8.3.5,Managing Director,Send OTP.,3.8.3.6
+,3.8.3.6,Admin,Receive OTP.,3.8.3.7
+,3.8.3.7,Admin,Prepare Draft Submission.,3.8.3.8
+,3.8.3.8,Admin,Verify details of Draft Submission.,3.8.3.9
+,3.8.3.9,Admin,Print Summary & attachments.,3.8.3.10
+,3.8.3.10,Admin,Submit on Go Business SG.,3.8.3.11
+,3.8.3.11,Admin,Print acknowledgment of submission.,3.8.3.12
+,3.8.3.12,Admin,File printed Summary & attachments.,3.8.4.1
+,3.8.4,[N/A],STAGE 3.8.4: RECEIVE ACCEPTANCE / FURTHER OBJECTIONS BY AUTHORITIES,3.8.4.1
+,3.8.4.1,JTC Corporation,Is response / rectifications acceptable?,"YES: 3.8.4.6, NO: 3.8.4.2"
+,3.8.4.2,JTC Corporation,Issues comments & rectifications required for compliance.,3.8.4.3
+,3.8.4.3,Sales Executive,Receives Notification.,3.8.4.4
+,3.8.4.4,Sales Executive,Checks with MD if uncertain of scope of business plans.,3.8.4.5
+,3.8.4.5,Managing Director,Guides SE on response.,3.8.3.1
+,3.8.4.6,JTC Corporation,Issues Written Permission to start work (general email).,3.8.4.7
+,3.8.4.7,Project Manager,Receives Written Permission.,3.8.4.8
+,3.8.4.8,Project Manager,Informs SE.,3.8.4.9
+,3.8.4.9,Sales Executive,Receives Written Permission.,3.8.4.10
+,3.8.4.10,Sales Executive,Informs Clients.,3.8.4.11
+,3.8.4.11,Client,Receives Written Permission to start work.,END
